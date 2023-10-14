@@ -1,2 +1,1 @@
-# Foodieapp
-Foodieapp
+#Delete README.md

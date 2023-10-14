@@ -1,0 +1,20 @@
+asgiref
+# backports.zoneinfo
+dj-database-url
+dj-environ
+Django
+django-environ
+django-heroku
+djangorestframework
+gunicorn
+packaging
+Pillow
+# pkg_resources
+psycopg2
+psycopg2-binary
+python-decouple
+pytz
+six
+sqlparse
+typing_extensions
+# whitenoise
